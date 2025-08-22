@@ -26,9 +26,7 @@ Displays bike sales distribution across Europe, North America, and the Pacific r
 ---
 
 ## 🔍 Interactive Filters
-
 ### The dashboard allows users to refine results based on:
-
 **● Marital Status  
 ● Gender  
 ● Education  
