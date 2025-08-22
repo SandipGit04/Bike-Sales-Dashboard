@@ -25,7 +25,7 @@ Displays bike sales distribution across Europe, North America, and the Pacific r
 
 ---
 
-## 🔍 Dashboard Filters
+## 🔍 Interactive Filters
 
 ### Users can refine the analysis by applying filters for:
 
