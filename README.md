@@ -1,4 +1,4 @@
-# 🚴 Bike Sales Analysis Dashboard – Excel Project
+# *🚴 Bike Sales Analysis Dashboard – Excel Project*
 
 ## 📌 Project Overview
 This project leverages Excel-based data analysis to uncover insights from a bike sales dataset covering multiple regions.
@@ -35,4 +35,24 @@ Displays bike sales distribution across Europe, North America, and the Pacific r
 ● Occupation  
 ● Home Ownership**
 
-🖼 Dashboard Preview
+---
+
+## 🖼 Dashboard Preview
+![**Bike Sales**](https://raw.githubusercontent.com/SandipGit04/Bike-Sales-Dashboard/refs/heads/main/Dashboard%20Image/Bike%20Sales%20Dashboard.png)  
+
+---
+
+## 📌 How to Use the Dashboard
+- Download the Excel file from this repository.
+- Open in Excel (Desktop version recommended for full interactivity).
+- Use slicers/filters to explore data by Marital Status, Gender, Education, Occupation, Home Ownership.
+
+---
+
+## 📱 Contact & Support
+For questions or support, reach out via:
+
+📩 Email : [kundusandip004@gmail.com](mailto:kundusandip004@gmail.com)  
+🔗 LinkedIn : [linkedin.com/in/sandipin04](https://www.linkedin.com/in/sandipin04/)  
+𝕏 Twitter : [@SandipX04](https://x.com/SandipX04)  
+
